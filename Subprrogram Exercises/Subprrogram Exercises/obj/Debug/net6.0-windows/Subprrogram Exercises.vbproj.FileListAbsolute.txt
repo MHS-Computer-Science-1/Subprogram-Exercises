@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net6.0-windows\Subprrogram Exercises.exe
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net6.0-windows\Subprrogram Exercises.deps.json
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net6.0-windows\Subprrogram Exercises.runtimeconfig.json
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net6.0-windows\Subprrogram Exercises.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net6.0-windows\Subprrogram Exercises.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram_Exercises.Form1.resources
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\refint\Subprrogram Exercises.dll
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.pdb
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\Subprrogram Exercises.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\07 Subs\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net6.0-windows\ref\Subprrogram Exercises.dll
