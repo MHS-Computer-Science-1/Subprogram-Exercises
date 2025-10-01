@@ -1,0 +1,17 @@
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net8.0-windows7.0\Subprrogram Exercises.exe
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net8.0-windows7.0\Subprrogram Exercises.deps.json
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net8.0-windows7.0\Subprrogram Exercises.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net8.0-windows7.0\Subprrogram Exercises.dll
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\bin\Debug\net8.0-windows7.0\Subprrogram Exercises.pdb
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram_Exercises.Form1.resources
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.sourcelink.json
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.dll
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\refint\Subprrogram Exercises.dll
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.pdb
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\Subprrogram Exercises.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Subprogram-Exercises\Subprrogram Exercises\Subprrogram Exercises\obj\Debug\net8.0-windows7.0\ref\Subprrogram Exercises.dll
